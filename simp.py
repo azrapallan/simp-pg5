@@ -14,7 +14,3 @@ else:
 
 simple_interest = (eval(principal) * eval(rate) * eval(time)) / 100
 
-print("Principal Amount:", principal)
-print("Rate of Interest:", rate)
-print("Time Period (years):", time)
-print("Simple Interest =", simple_interest)
